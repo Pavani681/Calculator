@@ -2,3 +2,4 @@ Django
 scikit-learn
 pandas
 Numpy
+gunicorn
